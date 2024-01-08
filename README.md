@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-🌱 I’m currently learning **Node.js**
+🌱 I’m currently learning Node.js
+
 📫 How to reach me **prasannakumar2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
